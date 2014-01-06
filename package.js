@@ -3,5 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
+    api.export("LatLon");
     api.add_files(['lib/Geo.js','lib/LatLon.js'], ['client', 'server']);
 });
