@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.add_files(['Geo.js','LatLon.js'], ['client', 'server']);
+    api.add_files(['/lib/Geo.js','/lib/LatLon.js'], ['client', 'server']);
 });
