@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "LatLon": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "LatLon": {
+        "path": "."
+      }
+    }
+  }
+}
