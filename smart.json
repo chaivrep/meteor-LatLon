@@ -3,6 +3,6 @@
     "description": "Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2012",
     "homepage": "https://github.com/chaivrep/meteor-LatLon",
     "author": "Peter Chaivre",
-    "version": "0.0.10",
+    "version": "0.0.91",
     "git": "https://github.com/chaivrep/meteor-LatLon.git"
 }
