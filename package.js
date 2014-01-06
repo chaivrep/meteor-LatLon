@@ -4,5 +4,6 @@ Package.describe({
 
 Package.on_use(function (api) {
     api.export("LatLon");
+    api.export("Geo");
     api.add_files(['lib/Geo.js','lib/LatLon.js'], ['client', 'server']);
 });
